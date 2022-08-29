@@ -18,6 +18,7 @@
     "grunt-contrib-cssmin": "^1.0.2",
     "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-markdown-pdf": "^4.0.0",
     "grunt-open": "^0.2.4",
     "grunt-serve": "^0.1.6"
   }

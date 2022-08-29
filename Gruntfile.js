@@ -90,7 +90,15 @@ module.exports = function(grunt) {
         }]
       }
     },
-
+    markdownpdf: {
+      options: {
+        concat: true,
+        // Task-specific options go here.
+      },
+      your_target: {
+        // Target-specific file lists and/or options go here.
+      },
+    },
     clean: {
       prebuild: {
         src: ['dist/**/*.less.css', '*.html']
@@ -135,7 +143,8 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-open');
   grunt.loadNpmTasks('grunt-bake');
   grunt.loadNpmTasks('grunt-serve');
-
+  grunt.loadNpmTasks('grunt-markdown-pdf');
+  
   grunt.registerTask('setDev', 'Sets if we are doing development', function(newVal) {
     grunt.config.dev = newVal;
   });
