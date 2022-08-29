@@ -1,27 +1,24 @@
 {
-  "name": "Samed Duzcay",
-  "profession": "Software Engineer",
-  "summary": "A confident, self-motivated software engineer with 6 years of experience in software development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills.",
-  "mail": "samedduzcay@gmail.com",
+  "name": "Faouzi Mokhefi",
+  "profession": "Étudiant en ingénierie des logiciels / développeur",
+  "summary": "Un Étudiant motivé par le développement et l'éxploration des solutions opensource. Un chercheur approfondi et un apprenant passionné dans tous les aspects de sa vie, avec des compétences versatiles.",
+  "mail": "if_mokhefi@esi.dz",
+  "photo": "img/fou.png",
   "address": {
-    "title": "Istanbul, Turkey",
-    "url": "https://www.google.com.tr/maps/@41.0847699,29.0492408,16.39z"
+    "title": "Bordj-menaiel, Boumerdes",
+    "url": "https://www.google.com.tr/maps/place/Bordj+Mena%C3%AFel/@36.7475069,3.5983205,11z/data=!4m5!3m4!1s0x128e779575fcd797:0x4adee70a3c6a2b56!8m2!3d36.7450878!4d3.7192567"
   },
   "personal_site": {
-    "title": "smddzcy.com",
-    "url": "https://smddzcy.com/"
+    "title": "0549090625"
+    
   },
   "github": {
-    "title": "github.com/smddzcy",
-    "url": "https://github.com/smddzcy"
+    "title": "github.com/fouziray",
+    "url": "https://github.com/fouziray"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
-    "url": "https://www.linkedin.com/in/smddzcy"
-  },
-  "hackerrank": {
-    "title": "hackerrank.com/smddzcy",
-    "url": "https://www.hackerrank.com/smddzcy"
+    "title": "linkedin.com/in/faouzi-mokhefi",
+    "url": "https://www.linkedin.com/in/faouzi-mokhefi-b0a82b248/"
   },
   "google_analytics": "UA-43755905-9"
 }

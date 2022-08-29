@@ -1,13 +1,13 @@
 [{
-  "name": "Turkish",
-  "level": "Native"
+  "name": "Arabe",
+  "level": "Langue maternelle"
 }, {
-  "name": "English",
-  "level": "C2, Proficient"
+  "name": "Anglais",
+  "level": "courant"
 }, {
-  "name": "French",
-  "level": "A1, Elementary"
+  "name": "Francais",
+  "level": "bilingue"
 }, {
-  "name": "German",
-  "level": "B1, Intermediate"
+  "name": "Allemand",
+  "level": "Intermediaire simple"
 }]

@@ -1,10 +1,10 @@
 [{
-  "name": "CV",
-  "description": "A simple, modern CV/resume template. This CV is built using this template.",
-  "github": "https://github.com/smddzcy/cv"
+  "name": "Plateforme VTC",
+  "description": "Associations de livreurs des biens aux clients et Gestion des comptes"
+  
 }, {
-  "name": "Chrome Meme Search",
-  "description": "A Chrome extension that lets you make spotlight search for memes.",
+  "name": "location de voiture sans conducteur",
+  "description": "Le locataire reserve un véhicule autonome pour un trajet précis à travers une application mobile, demande du supports au administrateurs qui gèrent l'orchestration de la flotte et les agents de maintenance",
   "github": "https://github.com/smddzcy/chrome-meme-search"
 }, {
   "name": "BounCoursePlanner",
