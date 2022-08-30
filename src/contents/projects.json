@@ -1,6 +1,6 @@
 [ {
   "name": "location de voiture sans conducteur",
-  "description": "Le locataire reserve un véhicule autonome pour un trajet précis à travers une application mobile, demande du supports au administrateurs qui gèrent l'orchestration de la flotte et les agents de maintenance. J'avais comme principale missions de  developper l'application web et un langage abstrait du code c++ pour commander le véhicule à distance ainsi que d'intégrer la détection des panneaux de signalisation.",
+  "description": "Le locataire reserve un véhicule autonome pour un trajet précis à travers une application mobile, demande du supports au administrateurs qui gèrent l'orchestration de la flotte et les agents de maintenance. Ma contribution était de  developper l'application web et un langage abstrait du code c++ pour commander le véhicule à distance ainsi que d'intégrer <a href='https://github.com/AghilesAzzoug/Traffic-sign-detection'>la détection des panneaux de signalisation</a> à l'environnement raspbian.",
   "github": "https://github.com/PROJET-SIL-EQUIPE-2"
 }, {
   "name": "Reservation de places de parking",
@@ -17,11 +17,11 @@
 },
 {
   "name":"Classification de séverité d'arrythmie",
-  "description":"En utilisant les réseaux de neurones (MLPerceptron de MLlib) sous PySpark "
+  "description":"En utilisant les réseaux de neurones (MLPerceptron de MLlib) sous PySpark. "
 },
 {
   "name":"Detection de visage",
-  "description":"Application java desktop pour verifier l'existance d'un visage en entrée et avoir le degrée de ressemblance.",
+  "description":"Application java desktop pour verifier l'existance d'un visage en entrée dans une base d'images (en utilisant l'analyse par composantes principales) et avoir le degrée de ressemblance.",
   "github":"https://github.com/fouziray/AcpGUI"
 } 
 ]
