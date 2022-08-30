@@ -4,7 +4,7 @@
   "github": "https://github.com/PROJET-SIL-EQUIPE-2"
 }, {
   "name": "Reservation de places de parking",
-  "description": "Application Mobile Kotlin android pour permettre la recherche de parkings proches et reserver une place pour une durée spécifique. inclut une rest api (nodejs), base de donnée relationnelle (Postgres)",
+  "description": "Application Mobile Kotlin android pour permettre la recherche de parkings proches et reserver une place pour une durée spécifique. inclut une rest api (nodejs), base de donnée relationnelle (Postgres).",
   "github": "https://github.com/fouziray/TP4_Parking"
 }, {
   "name": "Plateforme VTC",
@@ -12,7 +12,7 @@
 },
 {
   "name":"Recommendation de films",
-  "description": "Implémentation du modele ALS de recommendation sur PySpark pour recommender des films aux utilisateurs en prenant en compte leurs avis sur les films déja visionnées",
+  "description": "Implémentation du modele ALS de recommendation sur PySpark pour recommender des films aux utilisateurs en prenant en compte leurs avis sur les films déja visionnées.",
   "github": "https://github.com/fouziray/movies_recommender_pyspark"
 },
 {
@@ -21,7 +21,7 @@
 },
 {
   "name":"Detection de visage",
-  "description":"Application java desktop pour verifier l'existance d'un visage en entrée et avoir le degrée de ressemblance",
+  "description":"Application java desktop pour verifier l'existance d'un visage en entrée et avoir le degrée de ressemblance.",
   "github":"https://github.com/fouziray/AcpGUI"
 } 
 ]
