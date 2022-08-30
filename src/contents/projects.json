@@ -18,5 +18,10 @@
 {
   "name":"Classification de séverité d'arrythmie",
   "description":"En utilisant les réseaux de neurones (MLPerceptron de MLlib) sous PySpark "
+},
+{
+  "name":"Detection de visage",
+  "description":"Application java desktop pour verifier l'existance d'un visage en entrée et avoir le degrée de ressemblance",
+  "github":"https://github.com/fouziray/AcpGUI"
 } 
 ]
