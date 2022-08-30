@@ -1,28 +1,22 @@
-[{
-  "name": "Plateforme VTC",
-  "description": "Associations de livreurs des biens aux clients et Gestion des comptes"
-  
-}, {
+[ {
   "name": "location de voiture sans conducteur",
-  "description": "Le locataire reserve un véhicule autonome pour un trajet précis à travers une application mobile, demande du supports au administrateurs qui gèrent l'orchestration de la flotte et les agents de maintenance",
+  "description": "Le locataire reserve un véhicule autonome pour un trajet précis à travers une application mobile, demande du supports au administrateurs qui gèrent l'orchestration de la flotte et les agents de maintenance. J'avais comme principale missions de  developper l'application web et un langage abstrait du code c++ pour commander le véhicule à distance ainsi que d'intégrer la détection des panneaux de signalisation.",
   "github": "https://github.com/PROJET-SIL-EQUIPE-2"
 }, {
-  "name": "BounCoursePlanner",
-  "description": "Course schedule planner for Boğaziçi University students. Finds the best schedule for a set of courses, which has the least conflicts and most free hours.",
-  "github": "https://github.com/smddzcy/BounCoursePlanner",
-  "link": "https://smddzcy.com/BounCoursePlanner/"
+  "name": "Reservation de places de parking",
+  "description": "Application Mobile Kotlin android pour permettre la recherche de parkings proches et reserver une place pour une durée spécifique. inclut une rest api (nodejs), base de donnée relationnelle (Postgres)",
+  "github": "https://github.com/fouziray/TP4_Parking"
 }, {
-  "name": "BUEvents",
-  "description": "Events calendar for Boğaziçi University. It's the only events calendar since there isn't any official one.",
-  "github": "https://github.com/smddzcy/BUEvents",
-  "link": "https://smddzcy.com/BUEvents/"
-}, {
-  "name": "BUYemek",
-  "description": "An iOS app for Boğaziçi University's cafeteria. There is also a separate project for its <a href=\"https://github.com/smddzcy/BUYemek\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">REST API</a>.",
-  "github": "https://github.com/smddzcy/BUYemek-iOS"
-}, {
-  "name": "SkateMate",
-  "description": "SkateMate enables skaters to find and share new spots, and connect with each other in real-time. It was our ENG 493 - Launching a Successful Software Startup course project in 2016 Fall term, at Boğaziçi University. I was responsible for the development of the mobile application (cross-platform, built with Ionic).",
-  "github": "https://github.com/smddzcy/SkateMate",
-  "link": "http://www.getskatemate.com/"
-}]
+  "name": "Plateforme VTC",
+  "description": "Associations de livreurs des biens aux clients souhaitant transporter leurs paquets sans déplacement."
+},
+{
+  "name":"Recommendation de films",
+  "description": "Implémentation du modele ALS de recommendation sur PySpark pour recommender des films aux utilisateurs en prenant en compte leurs avis sur les films déja visionnées",
+  "github": "https://github.com/fouziray/movies_recommender_pyspark"
+},
+{
+  "name":"Classification de séverité d'arrythmie",
+  "description":"En utilisant les réseaux de neurones (MLPerceptron de MLlib) sous PySpark "
+} 
+]
