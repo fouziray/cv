@@ -11,8 +11,8 @@
   "description": "Associations de livreurs des biens aux clients souhaitant transporter leurs paquets sans déplacement."
 },
 {
-  "name":"Recommendation de films",
-  "description": "Implémentation du modele ALS de recommendation sur PySpark pour recommender des films aux utilisateurs en prenant en compte leurs avis sur les films déja visionnées.",
+  "name":"Recommandation de films",
+  "description": "Implémentation du modele ALS de recommandation sur PySpark pour proposer des films aux utilisateurs en prenant en compte leurs avis sur les films déja visionnés.",
   "github": "https://github.com/fouziray/movies_recommender_pyspark"
 },
 {
